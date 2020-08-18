@@ -67,3 +67,5 @@ if __name__ == "__main__":
         # 用新数据测试神经网络
         print("考虑新的形式 [1,0,0] -> ?:")
         print (neural_network.think(array([1,0,0])))
+
+        #测试
